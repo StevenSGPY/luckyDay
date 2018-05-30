@@ -1,0 +1,70 @@
+2018-04-12 10:21:41.879 [http-nio-80-exec-2] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"tinyurl":"http:\/\/dwz.cn\/7LBieF","status":0,"longurl":"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx208baf9995c91580&redirect_uri=http://haer8z.natappfree.cc/o2o/shopadmin/addshopauthmap&role_type=1&response_type=code&scope=snsapi_userinfo&state=%7BaaashopIdaaa%3A1%2CaaacreateTimeaaa%3A1523499701667%7D#wechat_redirect","err_msg":""}
+2018-04-12 10:21:41.884 [http-nio-80-exec-2] INFO  com.imooc.o2o.util.ShortNetAddress - tinyurl: http://dwz.cn/7LBieF
+2018-04-12 10:22:23.612 [http-nio-80-exec-8] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"status":-1,"err_msg":"","longurl":""}
+2018-04-12 10:22:23.719 [http-nio-80-exec-8] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"status":-1,"err_msg":"","longurl":""}
+2018-04-12 10:22:23.821 [http-nio-80-exec-8] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"status":-1,"err_msg":"","longurl":""}
+2018-04-12 10:22:23.929 [http-nio-80-exec-8] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"status":-1,"err_msg":"","longurl":""}
+2018-04-12 10:22:24.082 [http-nio-80-exec-8] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"tinyurl":"http:\/\/dwz.cn\/7LBjB6","status":0,"longurl":"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx208baf9995c91580&redirect_uri=http://haer8z.natappfree.cc/o2o/shopadmin/addshopauthmap&role_type=1&response_type=code&scope=snsapi_userinfo&state=%7BaaashopIdaaa%3A1%2CaaacreateTimeaaa%3A1523499743930%7D#wechat_redirect","err_msg":""}
+2018-04-12 10:22:24.082 [http-nio-80-exec-8] INFO  com.imooc.o2o.util.ShortNetAddress - tinyurl: http://dwz.cn/7LBjB6
+2018-04-12 10:22:44.430 [http-nio-80-exec-7] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"status":-1,"err_msg":"","longurl":""}
+2018-04-12 10:22:44.714 [http-nio-80-exec-7] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"status":-1,"err_msg":"","longurl":""}
+2018-04-12 10:22:44.825 [http-nio-80-exec-7] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"status":-1,"err_msg":"","longurl":""}
+2018-04-12 10:22:44.929 [http-nio-80-exec-7] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"tinyurl":"http:\/\/dwz.cn\/7LBkdL","status":0,"longurl":"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx208baf9995c91580&redirect_uri=http://haer8z.natappfree.cc/o2o/shopadmin/addshopauthmap&role_type=1&response_type=code&scope=snsapi_userinfo&state=%7BaaashopIdaaa%3A1%2CaaacreateTimeaaa%3A1523499764826%7D#wechat_redirect","err_msg":""}
+2018-04-12 10:22:44.930 [http-nio-80-exec-7] INFO  com.imooc.o2o.util.ShortNetAddress - tinyurl: http://dwz.cn/7LBkdL
+2018-04-12 10:22:45.660 [http-nio-80-exec-1] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"status":-1,"err_msg":"","longurl":""}
+2018-04-12 10:22:45.772 [http-nio-80-exec-1] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"status":-1,"err_msg":"","longurl":""}
+2018-04-12 10:22:45.891 [http-nio-80-exec-1] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"status":-1,"err_msg":"","longurl":""}
+2018-04-12 10:22:45.998 [http-nio-80-exec-1] INFO  com.imooc.o2o.util.ShortNetAddress - response string: {"tinyurl":"http:\/\/dwz.cn\/7LBkfO","status":0,"longurl":"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx208baf9995c91580&redirect_uri=http://haer8z.natappfree.cc/o2o/shopadmin/addshopauthmap&role_type=1&response_type=code&scope=snsapi_userinfo&state=%7BaaashopIdaaa%3A1%2CaaacreateTimeaaa%3A1523499765893%7D#wechat_redirect","err_msg":""}
+2018-04-12 10:22:45.999 [http-nio-80-exec-1] INFO  com.imooc.o2o.util.ShortNetAddress - tinyurl: http://dwz.cn/7LBkfO
+2018-04-12 10:54:24.587 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 17816 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 10:54:24.590 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 10:55:34.158 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 17732 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 10:55:34.160 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 10:55:41.142 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 7.332 seconds (JVM running for 8.221)
+2018-04-12 11:15:41.386 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 19092 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 11:15:41.390 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 11:15:49.611 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 8.667 seconds (JVM running for 9.667)
+2018-04-12 11:21:38.813 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 11992 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 11:21:38.817 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 11:21:46.101 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 7.685 seconds (JVM running for 8.586)
+2018-04-12 11:22:00.013 [schedulerFactory_Worker-1] INFO  com.imooc.o2o.web.wechat.WechatController - Quartz Running
+2018-04-12 11:22:35.624 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 19232 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 11:22:35.629 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 11:22:42.545 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 7.299 seconds (JVM running for 8.268)
+2018-04-12 12:46:34.343 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 12400 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 12:46:34.347 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 12:46:41.634 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 7.721 seconds (JVM running for 8.663)
+2018-04-12 13:45:28.488 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest - Starting ProductSellDailyDaoTest on SKY-20171012MFY with PID 17824 (started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 13:45:28.491 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest - No active profile set, falling back to default profiles: default
+2018-04-12 13:45:36.863 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest - Started ProductSellDailyDaoTest in 8.905 seconds (JVM running for 10.907)
+2018-04-12 14:15:23.449 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 17276 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 14:15:23.453 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 14:16:18.113 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 17240 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 14:16:18.116 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 14:16:25.855 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 8.163 seconds (JVM running for 9.158)
+2018-04-12 14:40:56.921 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 6404 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 14:40:56.934 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 14:41:08.618 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 12.229 seconds (JVM running for 13.692)
+2018-04-12 15:11:00.539 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 9016 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 15:11:00.549 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 15:11:11.359 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 11.299 seconds (JVM running for 12.657)
+2018-04-12 15:12:00.014 [schedulerFactory_Worker-1] INFO  com.imooc.o2o.web.wechat.WechatController - Quartz Running
+2018-04-12 15:13:42.986 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest - Starting ProductSellDailyDaoTest on SKY-20171012MFY with PID 12244 (started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 15:13:42.988 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest - No active profile set, falling back to default profiles: default
+2018-04-12 15:13:50.337 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest - Started ProductSellDailyDaoTest in 7.837 seconds (JVM running for 9.523)
+2018-04-11 15:16:51.673 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest - Starting ProductSellDailyDaoTest on SKY-20171012MFY with PID 18572 (started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-11 15:16:51.676 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest - No active profile set, falling back to default profiles: default
+2018-04-11 15:16:58.711 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest - Started ProductSellDailyDaoTest in 7.695 seconds (JVM running for 9.576)
+2018-04-12 15:53:45.312 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 17760 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 15:53:45.347 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 15:54:44.362 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 19344 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-12 15:54:44.370 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-12 15:54:53.820 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 9.968 seconds (JVM running for 11.255)
+2018-04-12 15:55:00.014 [schedulerFactory_Worker-1] INFO  com.imooc.o2o.web.wechat.WechatController - Quartz Running
+2018-04-11 15:56:01.226 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 17816 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-11 15:56:01.240 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-11 15:56:11.689 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 10.968 seconds (JVM running for 12.392)
+2018-04-11 15:56:34.724 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication on SKY-20171012MFY with PID 15240 (E:\spring-tool\springTool-workspace\o2o\target\classes started by zp in E:\spring-tool\springTool-workspace\o2o)
+2018-04-11 15:56:34.728 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2018-04-11 15:56:42.438 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 8.101 seconds (JVM running for 9.088)
+2018-04-11 15:57:00.011 [schedulerFactory_Worker-1] INFO  com.imooc.o2o.web.wechat.WechatController - Quartz Running

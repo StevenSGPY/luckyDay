@@ -1,0 +1,6 @@
+2018-04-16 00:00:00.052 [schedulerFactory_Worker-1] DEBUG c.i.o.d.ProductSellDailyDao.insertProductSellDaily - ==>  Preparing: INSERT INTO tb_product_sell_daily(product_id,shop_id,create_time,total) ( SELECT product_id,shop_id,date_format(create_time,'%Y-%m-%d'),count(product_id) AS total FROM tb_user_product_map WHERE date_format(create_time,'%Y-%m-%d') = date_sub(curdate(),interval 1 day) GROUP BY product_id ) 
+2018-04-16 00:00:00.062 [schedulerFactory_Worker-1] DEBUG c.i.o.d.ProductSellDailyDao.insertProductSellDaily - ==> Parameters: 
+2018-04-16 00:00:00.143 [schedulerFactory_Worker-1] DEBUG c.i.o.d.ProductSellDailyDao.insertProductSellDaily - <==    Updates: 1
+2018-04-16 00:00:00.143 [schedulerFactory_Worker-1] DEBUG c.i.o.d.P.insertDefaultProductSellDaily - ==>  Preparing: INSERT INTO tb_product_sell_daily(product_id,shop_id,create_time,total) ( SELECT p.product_id,p.shop_id,date_sub(curdate(),interval 1 day),0 AS total FROM tb_product p WHERE p.product_id not in (select product_id from tb_product_sell_daily where date_format(create_time,'%Y-%m-%d') = date_sub(curdate(),interval 1 day)) ) 
+2018-04-16 00:00:00.145 [schedulerFactory_Worker-1] DEBUG c.i.o.d.P.insertDefaultProductSellDaily - ==> Parameters: 
+2018-04-16 00:00:00.197 [schedulerFactory_Worker-1] DEBUG c.i.o.d.P.insertDefaultProductSellDaily - <==    Updates: 20
